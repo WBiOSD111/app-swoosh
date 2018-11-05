@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](http://cocoapods.org/pods/LFAlertController)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-First of many apps created by follwoing the [iOS 12 & Swift 4: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios12/learn/v4/content) course on Udemy by Mark Price.
+First of many apps created by following the [iOS 12 & Swift 4: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios12/learn/v4/content) course on Udemy by Mark Price.
 
 ![Swoosh App](swoosh-welcome.png)
 

@@ -9,7 +9,7 @@
 
 One to two paragraph statement about your product and what it does.
 
-![Swoosh App](swoosh-welcome.jpg)
+![Swoosh App](swoosh-welcome.png)
 
 ## Features
 

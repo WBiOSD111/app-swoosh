@@ -19,10 +19,10 @@ First of many apps created by following the [iOS 12 & Swift 4: From Beginner to 
 - [x] IBActions & data models
 - [x] Passing data between view controllers
 
-## Requirements
+## Build
 
-- iOS 8.0+
-- Xcode 7.3
+- iOS 11.0
+- Xcode 9.4.1
 
 ## Meta
 

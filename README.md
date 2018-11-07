@@ -9,7 +9,7 @@
 
 First of many apps created by following the [iOS 12 & Swift 4: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios12/learn/v4/content) course on Udemy by Mark Price.
 
-![Swoosh App](swoosh-welcome.png)
+<img alt="swoosh-welcome-screen" src="swoosh-welcome.jpg" width="200"><img alt="swoosh-desired-screen" src="swoosh-desired-league.jpg" width="200"><img alt="swoosh-skill-screen" src="swoosh-skill-level.jpg" width="200">
 
 ## Features
 
